@@ -73,9 +73,26 @@ Identify high- and low-performing products
 Understand customer payment preferences
 Improve pricing and sales strategies
 Make data-driven business decisions
+
+
+🎥 Demo Video
+
+You can watch the project in action here:
+
+▶ [Click to watch ECOMERCE_SALES_DASHBOARD.mp4](./ECOMERCE_SALES_DASHBOARD.mp4)
+
+Or download directly from this repository.
+
 🚀 Conclusion
 This project demonstrates my ability to clean data, build interactive dashboards, and derive actionable insights using Power BI.
 
-👤 Author
+
+
+✍ Author
+
+👤 Kousik Chakraborty
+📧 Email: www.kousik.c.in@gmail.com
+🔗 GitHub Profile: https://github.com/iamkousikc-create18
+🔗 Project Repository: https://github.com/iamkousikc-create18/ecomerce-sales-dashboard-powerbi
 Kousik Chakraborty
 📌 Aspiring Data Analyst / Machine Learning Engineer
